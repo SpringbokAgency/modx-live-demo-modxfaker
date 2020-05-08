@@ -1,0 +1,1 @@
+<div id="modxfaker-panel-home-div"></div>

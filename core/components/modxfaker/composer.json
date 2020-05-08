@@ -1,0 +1,21 @@
+{
+  "name": "springbokagency/modx-live-demo-modxfaker",
+  "type": "project",
+  "description": "MODX Live Session (2020-05-07) demo extra",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joshua Lückers",
+      "email": "joshua.luckers@springbokagency.com"
+    }
+  ],
+  "require": {
+    "fzaninotto/faker": "^1.9",
+    "springbokagency/faker-xpdo-orm-adapter": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "SpringbokAgency\\MODX\\Faker\\": "src/"
+    }
+  }
+}
